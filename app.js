@@ -21,14 +21,5 @@ app.listen(port, () => {
   console.log(`App running on port ${port}`);
 
 });
-----------------------------------------------------------------------------
 
-7. สร้างไฟล์ test.js :
 
-// Simple test runner
-
-console.log('✓ Server startup test passed');
-
-console.log('✓ Health endpoint test passed');
-
-console.log('All tests completed successfully!');
